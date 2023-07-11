@@ -1,4 +1,4 @@
 # Dart-Game
-A simple darts game mande with the Haskell language in the CodeWorld environment
+A simple dart game made with the Haskell language in the CodeWorld environment
 
 CodeWorld link : https://code.world/haskell
